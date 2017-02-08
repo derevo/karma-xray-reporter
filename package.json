@@ -1,0 +1,8 @@
+{
+  "name": "karma-xray-reporter",
+  "version": "1.0.0",
+  "description": "A Karma reporter for reporting test results to Xray for Jira",
+  "main": "index.js",
+  "author": "Dale Walden",
+  "license": "MIT"
+}
