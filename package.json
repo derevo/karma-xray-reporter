@@ -3,6 +3,23 @@
   "version": "1.0.0",
   "description": "A Karma reporter for reporting test results to Xray for Jira",
   "main": "index.js",
-  "author": "Dale Walden",
-  "license": "MIT"
+  "author": {
+    "name": "Dale Walden",
+    "email": "derevo.design@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "karma",
+    "testing",
+    "xray",
+    "jira"
+  ],
+  "homepage": "https://github.com/derevo/karma-xray-reporter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/derevo/karma-xray-reporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/derevo/karma-xray-reporter/issues"
+  }
 }
